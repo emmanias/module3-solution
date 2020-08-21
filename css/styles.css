@@ -1,0 +1,68 @@
+.navbar-brand {
+  padding-top: 25px;
+
+}
+
+.navbar-default{
+  background-color: #beeab1;
+  border-radius: 0;
+}
+
+.navbar-brand h1 {
+  color: #557c3e;
+  font-size: 1.5em;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .1;
+  color: black;
+}
+
+#nav-list a{
+  background: #f1f42aba;
+}
+
+.main-content{
+  height: 1000px;
+}
+
+#main-section {
+  padding: 5px;
+  margin-left: 30px;
+  margin-right: 30px;
+  height: 1000px;
+  background-color:#6c867b57;
+}
+
+#main-content {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+/********** Large devices only **********/
+@media (min-width: 1200px) {
+  
+}
+
+/********** Medium devices only **********/
+@media (min-width: 992px) and (max-width: 1199px) {
+	
+}
+
+
+
+/********** Small devices only **********/
+@media (min-width: 768px) and (max-width: 991px) {
+  
+}
+
+/********** Extra small devices only **********/
+@media (max-width: 767px) {
+
+	
+}
+
+/********** Super extra small devices **********/
+@media (max-width: 479px) {
+  
+}
+
